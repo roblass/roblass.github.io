@@ -1,7 +1,5 @@
 ![A profile picture](images/rob_headshot.png)
 
-# Rob Lass
-
 ## Find Me Online
 * [Github](https://www.github.com/roblass)
 * [LinkedIn](https://www.linkedin.com/in/urlass/)
