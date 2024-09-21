@@ -1,3 +1,5 @@
+![A profile picture](images/rob_headshot.png)
+
 # Rob Lass
 
 ## Find Me Online
