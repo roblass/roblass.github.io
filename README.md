@@ -12,3 +12,6 @@ I don't use other social media.
 * [Teradact](https://www.teradact.com)
 * [Robin Hood Ventures](https://www.robinhoodventures.com)
 * [DataPhilly](https://www.meetup.com/dataphilly/)
+
+## Misc
+* [GPG Key](rob_lass.asc)
