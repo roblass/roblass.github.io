@@ -11,7 +11,7 @@ I don't use other social media.
 * [Gaize](https://www.gaize.ai)
 * [Teradact](https://www.teradact.com)
 * [Robin Hood Ventures](https://www.robinhoodventures.com)
-* [DataPhilly](https://www.meetup.com/dataphilly/)
+* [DataPhilly](https://dataphilly.com/)
 
 ## Misc
 * [GPG Key](rob_lass.asc)
